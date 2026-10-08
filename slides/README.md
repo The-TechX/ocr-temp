@@ -1,6 +1,6 @@
 # Diapositivas
 
-- [Presentación Marp](presentacion.md): 25 diapositivas temáticas, más una de fuentes.
+- [Presentación Marp](presentacion.md): 12 diapositivas temáticas con fuentes integradas.
 - Cada bloque separado por `---` corresponde a una diapositiva.
 - Los puntos son texto editable; no se requiere PowerPoint.
 - Para exportar: `npx @marp-team/marp-cli slides/presentacion.md --pdf` (opcional).
