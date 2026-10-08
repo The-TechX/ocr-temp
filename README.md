@@ -5,3 +5,4 @@ Transcripción de fotografías de documentos. Una hoja principal por archivo en 
 ## Páginas
 
 - [001 — Portada](pages/page-001.md)
+- [002 — Referencias bibliográficas (página impresa 17)](pages/page-002.md)
