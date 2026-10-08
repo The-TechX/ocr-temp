@@ -15,3 +15,6 @@ Transcripción de fotografías de documentos. Una hoja principal por archivo en 
 - [009 — Objetivo, alcance y definiciones](pages/page-009.md)
 - [010 — Responsabilidades y resultados (página impresa 12)](pages/page-010.md)
 - [011 — Tabla de conservación](pages/page-011.md)
+- [012 — Vías oftálmica, inhalatoria y tópica (página impresa 11)](pages/page-012.md)
+- [013 — Contaminación y educación (página impresa 6)](pages/page-013.md)
+- [014 — Introducción (página impresa 3)](pages/page-014.md)

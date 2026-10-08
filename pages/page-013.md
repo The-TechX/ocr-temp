@@ -1,0 +1,16 @@
+# Página 013 — Prevención de contaminación y educación del personal
+
+> Página impresa: 6. El primer párrafo continúa desde la página anterior.
+
+…viales por error en la manipulación entre un paciente y otro y el riesgo de contaminación. Por tanto la elaboración de preparados en ambientes no estériles debe realizarse en **zonas diferenciadas de preparación de medicamentos** que deben estar presentes en las plantas y en las unidades donde se preparan medicamentos. Estas áreas deben reunir al menos las siguientes condiciones: espacio suficiente para la preparación de medicación. Sin objetos acumulados o almacenados, aisladas del ruido, de las interrupciones y de las distracciones. Acceso limitado para personal de trabajo. Estar bien iluminadas con luz general y asegurar una iluminación sobre las mesas de trabajo. El botiquín debería estar en la misma área. Aisladas de las áreas de corrientes de aire permanentes, como ventanas y puertas abiertas o zonas de preparación de comidas, zonas de aseo, áreas de almacén de materiales y otros fluidos, separadas de las zonas de circulación y movimiento de pacientes. Las zonas diferenciadas de preparación deben asegurar unas mesas limpias y desinfectadas diariamente, libres de la presencia de papel, cartón, madera, otros materiales que desprenden partículas. Debe asegurarse la limpieza diaria y desinfección de las superficies de trabajo y el suelo. Debe asegurarse la limpieza y desinfección mensual de paredes, estanterías, techos y puertas. Ausencia de posible material contaminante en el área demarcada (agujas usadas, posibles productos caducados, control de la temperatura y humedad). Fácil acceso a información sobre medicación utilizada. Como norma general, la medicación solo podrá prepararse en estas áreas. Si una presentación multidosis se manipula en la zona de atención de pacientes pasará a ser de uso unipersonal y desechado al finalizar la dosificación en el paciente o entregada al paciente al alta para la continuación del tratamiento.
+
+## Educación de personal:
+
+La manipulación del personal durante la preparación es una de las Fuentes de contaminación más importantes. El personal debe estar formado y entrenado para mantener la máxima asepsia durante la preparación y administración de la medicación.
+
+Las precauciones estándar se deben utilizar siempre que se vaya a atender a un paciente, independientemente de la patología que presente. **La higiene de manos** debe realizarse antes y después de entrar en contacto con el paciente y de la manipulación del medicamento. Se realizará formación en la implantación y supervisión de la misma.
+
+Continuada, compartida entre los servicios, de las prácticas de manipulación y administración en las plantas. Continuar con el programa de higiene de manos obligatorio para todas las unidades y personal sanitario que esté implicado en la elaboración y manipulación de preparados estériles. Uso de guantes ausentes de polvo siempre que se manipulen preparados estériles antes y durante la elaboración y Administración. Uso de soluciones hidroalcohólicas entre manipulaciones para Reducir la posible contaminación microbiana. Evitar la manipulación si el personal tiene alguna infección activa respiratoria, herpes labiales, conjuntivitis. Se debe evitar el uso…
+
+---
+Manejo de medicamentos MULTIDOSIS — HGR #1 “Lic. Ignacio García Téllez”
