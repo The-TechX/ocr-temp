@@ -9,3 +9,6 @@ Transcripción de fotografías de documentos. Una hoja principal por archivo en 
 - [003 — Discusión (página impresa 15)](pages/page-003.md)
 - [004 — Objetivo y definiciones (página impresa 13)](pages/page-004.md)
 - [005 — Normas generales (página impresa 7)](pages/page-005.md)
+- [006 — Ampolletas y pediatría (página impresa 8)](pages/page-006.md)
+- [007 — Ejemplo de etiquetado](pages/page-007.md)
+- [008 — Ejemplos pediátricos (página impresa 9)](pages/page-008.md)
