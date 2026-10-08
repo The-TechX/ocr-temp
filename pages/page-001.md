@@ -1,0 +1,17 @@
+# Página 001 — Portada
+
+INSTITUTO MEXICANO DEL SEGURO SOCIAL
+
+JEFATURA DE SERVICIOS DE PRESTACIONES MÉDICAS
+
+DELEGACIÓN EN YUCATÁN
+
+HOSPITAL GENERAL REGIONAL N.º 1 “LIC. IGNACIO GARCÍA TÉLLEZ”
+
+PROTOCOLO
+
+# MANEJO Y USO DE MEDICAMENTOS MULTIDOSIS
+
+Manejo de medicamentos MULTIDOSIS — HGR #1 “Lic. Ignacio García Téllez”
+
+<!-- Transcripción de la hoja principal; se excluyen hojas del fondo. -->
