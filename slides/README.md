@@ -1,9 +1,8 @@
-# Diapositivas
+# Presentación: manejo y uso de medicamentos multidosis
 
-- [Presentación Marp](presentacion.md): 12 diapositivas temáticas con fuentes integradas.
-- Cada bloque separado por `---` corresponde a una diapositiva.
-- Los puntos son texto editable; no se requiere PowerPoint.
-- Para exportar: `npx @marp-team/marp-cli slides/presentacion.md --pdf` (opcional).
-- Fuente: `../pages/` (17 fotografías transcritas).
+- [Presentación desarrollada (Marp)](presentacion.md): 14 diapositivas con párrafos explicativos, puntos clínicos y ejemplos.
+- Cada bloque separado por `---` es una diapositiva; los comentarios HTML señalan los archivos fuente.
+- Fuente: `../pages/page-001.md` a `page-017.md` (las 17 fotografías, incluidas portadas y bibliografía).
+- Exportación opcional: `npx @marp-team/marp-cli slides/presentacion.md --pdf`.
 
-**Revisión clínica obligatoria:** los tiempos de conservación del documento histórico no son universalmente aplicables y algunos difieren entre secciones. Validar con Farmacia, ficha técnica y protocolo institucional vigente antes de capacitar o aplicar.
+**Revisión clínica obligatoria:** este material resume un protocolo histórico, no constituye una guía clínica actualizada. Los plazos de uso difieren entre secciones y dependen de la formulación; validar con ficha técnica, Farmacia y normativa institucional vigente antes de impartirlo o aplicarlo.
