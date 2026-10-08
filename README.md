@@ -21,3 +21,7 @@ Transcripción de fotografías de documentos. Una hoja principal por archivo en 
 - [015 — Bibliografía (página impresa 16)](pages/page-015.md)
 - [016 — Portada interior (página impresa 1)](pages/page-016.md)
 - [017 — Vías oral y parenteral (página impresa 5)](pages/page-017.md)
+
+## Presentación
+
+- [Diapositivas para enfermería (Marp)](slides/presentacion.md)
